@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21601467.svg)](https://doi.org/10.5281/zenodo.21601467)
 # B2B Price Waterfall Calculator — Excel Template
 
 Model how list price becomes invoice price, pocket price and pocket margin after customer discounts, promotional discounts, concessions, customer rebates, vendor incentives and cost.
@@ -377,6 +378,12 @@ The user remains responsible for the accuracy of the inputs, the treatment of ex
 This repository is licensed under the terms described in [LICENSE.md](LICENSE.md).
 
 When reusing or adapting the workbook or documentation, follow the attribution and modification requirements stated in that file.
+
+## Citation
+
+Please cite the archived release using its Zenodo DOI:
+
+https://doi.org/10.5281/zenodo.21601467
 
 ## About Configure to WIN
 
