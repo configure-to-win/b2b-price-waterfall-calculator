@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this workbook, please cite it using these metadata."
+title: "B2B Price Waterfall Calculator"
+authors:
+  - name: "Configure to WIN"
+version: 1.0.0
+date-released: "2026-07-26"
+license: CC-BY-4.0
+repository-code: "https://github.com/configure-to-win/b2b-price-waterfall-calculator"
+url: "https://configure.win/resources/price-waterfall-calculator"
